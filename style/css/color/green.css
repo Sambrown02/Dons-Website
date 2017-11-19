@@ -1,0 +1,144 @@
+.progress.plain {
+    background: rgba(87,164,164,0.15);
+}
+.animsition-loading:after,
+#fancybox-loading div,
+.tp-loader.spinner0 {
+    border-left: 3px solid rgba(87,164,164,.15);
+    border-right: 3px solid rgba(87,164,164,.15);
+    border-bottom: 3px solid rgba(87,164,164,.15);
+    border-top: 3px solid rgba(87,164,164,.8);
+}
+a {
+    color: #57a4a4;
+}
+.colored {
+    color: #57a4a4
+}
+.post-title a:hover {
+    color: #57a4a4
+}
+.section-title:before {
+    color: #57a4a4;
+}
+.section-title.text-center:after {
+    color: #57a4a4;
+}
+.link-out:hover {
+    color: #57a4a4
+}
+.black-wrapper a:hover {
+    color: #57a4a4
+}
+.color-wrapper {
+    background: #57a4a4
+}
+ul.circled li:before {
+    color: #57a4a4;
+}
+.footer a:hover {
+    color: #57a4a4
+}
+.nav > li > a:hover {
+    background: none;
+    color: #57a4a4;
+}
+.nav > li.current > a {
+    background: none;
+    color: #57a4a4;
+}
+.navbar .nav .open > a,
+.navbar .nav .open > a:hover,
+.navbar .nav .open > a:focus {
+    background: none;
+    color: #57a4a4;
+}
+.navbar .dropdown-menu > li > a:hover,
+.navbar .dropdown-menu > li > a:focus,
+.navbar .dropdown-submenu:hover > a,
+.navbar .dropdown-submenu:focus > a,
+.navbar .dropdown-menu > .active > a,
+.navbar .dropdown-menu > .active > a:hover,
+.navbar .dropdown-menu > .active > a:focus {
+    color: #57a4a4;
+}
+.navbar-header .info a:hover {
+    color: #57a4a4
+}
+.btn,
+.btn-submit {
+    background: #57a4a4;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.pagination ul > li > a:hover,
+.pagination ul > li > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+    background: #4b8e8e;
+}
+.services-1 .icon i.icn {
+    color: #57a4a4;
+}
+.services-2 i {
+    color: #57a4a4;
+}
+.button-group .button:hover,
+.button-group .button:active,
+.button-group .button.is-checked {
+    color: #57a4a4
+}
+.meta a:hover,
+.more:hover {
+    color: #57a4a4
+}
+.sidebox a:hover {
+    color: #57a4a4
+}
+.progress-list li em {
+    color: #57a4a4;
+}
+.progress.plain .bar {
+    background: #57a4a4;
+}
+.fotorama__thumb-border {
+    border-color: #57a4a4
+}
+#comments .info h2 a:hover {
+    color: #57a4a4
+}
+#comments a.reply-link:hover {
+    color: #57a4a4
+}
+.tabs-top .tab a:hover,
+.tabs-top .tab.active a {
+    color: #57a4a4;
+    border-color: #57a4a4;
+}
+.panel-title > a:hover {
+    color: #57a4a4
+}
+.tooltip-inner {
+    background-color: #57a4a4;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #57a4a4
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #57a4a4
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #57a4a4
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #57a4a4
+}
+.pricing .plan h4 span {
+    color: #57a4a4
+}
